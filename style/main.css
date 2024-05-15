@@ -1,0 +1,16 @@
+
+.card {
+    height: 500px ; 
+    max-height: 500px;
+}
+
+img {
+    
+    width: 70% !important;
+    aspect-ratio: 1/1;
+}
+
+.description {
+    height: 100px;
+    overflow-y: auto;
+}
